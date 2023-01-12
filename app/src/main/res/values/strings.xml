@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">test country</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reg">"Region: "</string>
+    <string name="region">Region:</string>
+    <string name="capital">Capital:</string>
+    <string name="currency">Currency:</string>
+    <string name="timezone">Timezone:</string>
+    <string name="item1">Item1</string>
+    <string name="refresh">REFRESH</string>
+    <string name="error">CONNECTION ERROR</string>
+</resources>
